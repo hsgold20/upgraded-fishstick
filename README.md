@@ -1,4 +1,4 @@
-# Practice Building a custom operating system
+# Practice building an operating system
 
  Task, 2 months: 
 
